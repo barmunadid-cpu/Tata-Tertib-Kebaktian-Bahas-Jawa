@@ -1,0 +1,6 @@
+{
+  "name": "KursiPanggung - Penghitung & Denah Kursi Bioskop Real-time",
+  "description": "Aplikasi penghitung kursi interaktif bergaya bioskop & auditorium dengan visual panggung, kalkulasi kursi kosong & terisi real-time, kustomisasi blok, baris, kolom, dan penyimpanan otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
